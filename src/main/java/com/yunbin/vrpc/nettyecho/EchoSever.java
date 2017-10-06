@@ -1,4 +1,4 @@
-package com.yunbin.vrpc;
+package com.yunbin.vrpc.nettyecho;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelInitializer;
