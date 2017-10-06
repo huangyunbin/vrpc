@@ -1,4 +1,4 @@
-package com.yunbin.vrpc;
+package com.yunbin.vrpc.nettyecho;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
